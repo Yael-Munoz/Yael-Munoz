@@ -10,13 +10,13 @@ San Diego, CA | 📧 yaelmunoz2002@gmail.com | 📞 (619) 703-4662
 
 ---
 
-💻 PROJECTS
-📁 JavaScript & React Web Development Portfolio
-Technologies: HTML, CSS, JavaScript, React, Git
-• Developed a React Stopwatch using React hooks (useState, useEffect, useRef) for accurate real-time time tracking, featuring start/stop/reset controls and formatted output.
-• Built a calculator and Pokémon image fetcher utilizing DOM manipulation and asynchronous API fetching.
-• Collaborated on a book listing web app featuring dynamic data handling and modular code structure.
-• Practiced clean UI design, reusable components, and Git-based collaboration.
+## 💻 PROJECTS  
+📁 JavaScript & React Web Development Portfolio  
+Technologies: HTML, CSS, JavaScript, React, Git  
+• Developed a React Stopwatch using React hooks (`useState`, `useEffect`, `useRef`) for accurate real-time tracking, featuring start/stop/reset controls and formatted output.  
+• Built a calculator and Pokémon image fetcher utilizing DOM manipulation and asynchronous API fetching.  
+• Collaborated on a book listing web app featuring dynamic data handling and modular code structure.  
+• Practiced clean UI design, reusable components, and Git-based collaboration.  
 🔗 Live Project Website
 
 ---
