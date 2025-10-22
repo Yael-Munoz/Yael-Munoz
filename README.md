@@ -1,50 +1,92 @@
-# Hi, I'm Martin Yael Barraza Munoz 👋  
-San Diego, CA | 📧 yaelmunoz2002@gmail.com | 📞 (619) 703-4662  
+# Yael Munoz – Junior Software Developer
+
+I build clean, user-focused web applications using MERN stack technologies, with experience in APIs, JSON, testing/debugging workflows, and exposure to SQL. I enjoy turning ideas into functional, reliable software and collaborating on projects that enhance both my front-end and full-stack development skills.
 
 ---
 
-## 🛠 Technical Skills  
-**Languages & Tools:** Java, JavaScript, MySQL, HTML5, CSS3, Git, Postman  
-**Testing:** Manual Testing, API Testing, Functional Testing, Bug Reporting  
-**Other:** Bilingual – Fluent in English and Spanish  
+## Skills & Technologies
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Responsive Design, Component-Based Architecture  
+- **Backend & Databases:** Node.js, Express, MongoDB, MySQL, Java  
+- **Testing & QA Tools:** Postman (API testing), Manual & Debug Testing  
+- **Other Skills:** RESTful APIs, Problem Solving, Team Collaboration  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
 
 ---
 
-## 💻 Projects  
-📁 JavaScript & React Web Development Portfolio  
-Technologies: HTML, CSS, JavaScript, React, Git  
-- Developed a React Stopwatch using React hooks (useState, useEffect, useRef) for accurate real-time tracking, featuring start/stop/reset controls and formatted output  
-- Built a calculator and Pokémon image fetcher utilizing DOM manipulation and asynchronous API fetching  
-- Collaborated on a book listing web app featuring dynamic data handling and modular code structure  
-- Practiced clean UI design, reusable components, and Git-based collaboration  
-🔗 Live Project Website  
+## Projects
+
+### Full-Stack Web Application ([CitaYa – in progress](https://github.com/Yael-Munoz/CitaYa))
+
+A collaborative full-stack project built using MongoDB, Express, React, and Node.js (MERN).  
+
+- Features a dynamic, interactive interface with structured back-end for efficient data management  
+- Emphasizes component-based architecture, responsive design, and team collaboration via Git  
+- Showcases full-stack development skills in a collaborative environment  
 
 ---
 
-## 🎓 Education  
-- Associate of Science in Computer Science, 2025  
-- Associate of Arts in Liberal Arts: Math and Sciences (with Honors), 2025  
+### Online Project – [softengineerexe](https://softengineerexe.com)
+
+A collaborative web project built with a friend, deployed online for users to browse and download books by category.  
+
+- Developed using HTML, CSS, and vanilla JavaScript  
+- Dynamic content filtering and interactive UI for easy navigation  
+- Integrated ad monetization to provide free access to users
 
 ---
 
-## 📜 Certifications  
-- Java Developer Certificate (Udemy), July 2025  
+### [MERN-1 Project](https://github.com/Yael-Munoz/My-portfolio/tree/main/MERN%20-%201) (User Account Management)
+
+A full-stack MERN project for managing user accounts with JWT-based authentication stored in HTTP-only cookies.  
+
+- User registration and login, with access and refresh token authentication  
+- Account management: update profile, delete account  
+- Password hashing with bcrypt and React frontend with responsive UI
 
 ---
 
-## 📚 Relevant Coursework  
-- Data Structures & Algorithms  
-- Database Design & SQL  
-- Object-Oriented Programming (Java)  
-- Software Engineering Fundamentals  
+
+### [Book Selector (React)](https://github.com/Yael-Munoz/My-portfolio/tree/main/React%20-%20book)
+
+An interactive React app that displays a library of books stored in a JSON file.  
+
+- Built with React functional components and CSS Modules  
+- Users click a book cover to view detailed information in a responsive card component  
+- Modular, maintainable structure with clean separation of concerns  
 
 ---
 
-## 💼 Work Experience  
-Various roles at IHOP, Lowe’s, The Home Depot, Puesto, Coco Maya, Amazon (2018–2025)  
-- Balanced full-time work with dual associate degrees  
-- Developed communication, teamwork, and adaptability in fast-paced settings  
+### [React Stopwatch](https://github.com/Yael-Munoz/My-portfolio/tree/main/React%20-%20stopwatch)
+
+A responsive stopwatch app built with React functional components and hooks.  
+
+- Start, stop, and reset functionality  
+- Displays elapsed time in hours, minutes, seconds, and milliseconds  
+- Accurate real-time updates using `setInterval`  
 
 ---
 
-Feel free to reach out or connect! 🚀
+### [Pokémon Fetcher](https://github.com/Yael-Munoz/My-portfolio/tree/main/JS%20-%20pokemon%20fetcher)
+
+A web app that fetches and displays Pokémon sprites using the PokeAPI.  
+
+- User input for Pokémon name  
+- Dynamic fetch and display of Pokémon images  
+- Clean, simple, and responsive UI  
+
+---
+
+### [Calculator](https://github.com/Yael-Munoz/My-portfolio/tree/main/JS%20-%20calculator)
+
+A fully functional calculator built with vanilla JavaScript, HTML, and CSS.  
+
+- Performs basic arithmetic operations (+, −, ×, ÷)  
+- Responsive and clean user interface  
+- Handles invalid operations gracefully  
+
+---
+
+## Contact Me
+
+I’m actively seeking opportunities in software development or quality assurance and welcome connections.
