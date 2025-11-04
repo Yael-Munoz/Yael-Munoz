@@ -1,4 +1,4 @@
-# Yael Munoz – Junior Software Developer
+# Yael Munoz – Fullstack Developer
 
 I build clean, user-focused web applications using MERN stack technologies, with experience in APIs, JSON, testing/debugging workflows, and exposure to SQL. I enjoy turning ideas into functional, reliable software and collaborating on projects that enhance both my front-end and full-stack development skills.
 
