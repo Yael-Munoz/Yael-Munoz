@@ -16,13 +16,14 @@ I build clean, user-focused web applications using MERN stack technologies, with
 
 ## Projects
 
-### Full-Stack Web Application ([CitaYa – in progress](https://github.com/Yael-Munoz/CitaYa))
+### Full-Stack Web Application — CitaYa
 
-A collaborative full-stack project built using MongoDB, Express, React, and Node.js (MERN).  
+A production-deployed MERN application built with MongoDB, Express, React, and Node.js.
 
-- Features a dynamic, interactive interface with structured back-end for efficient data management  
-- Emphasizes component-based architecture, responsive design, and team collaboration via Git  
-- Showcases full-stack development skills in a collaborative environment  
+- Implements a responsive, component-driven front end paired with a scalable REST API  
+- Handles user authentication and data operations with a structured, maintainable backend  
+- Demonstrates full-stack development, API integration, and team-based workflow using Git/GitHub  
+- Fully deployed at https://www.citayamx.com, with automated builds via Vercel and Render
 
 ---
 
