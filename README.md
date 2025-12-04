@@ -16,7 +16,8 @@ I build clean, user-focused web applications using MERN stack technologies, with
 
 ## Projects
 
-### Full-Stack Web Application — CitaYa
+### Full-Stack Web Application — [CitayaMX](https://www.citayamx.com)
+
 
 A production-deployed MERN application built with MongoDB, Express, React, and Node.js.
 
