@@ -1,7 +1,6 @@
 # Yael Munoz – Fullstack Developer
 
-I build clean, user-focused web applications using MERN stack technologies, with experience in APIs, JSON, testing/debugging workflows, and exposure to SQL. I enjoy turning ideas into functional, reliable software and collaborating on projects that enhance both my front-end and full-stack development skills.
-
+I build clean, user-focused web applications with the MERN stack, working confidently with APIs, JSON handling, and testing/debugging workflows. I also have experience with SQL. I’m currently adding Python to my toolkit and exploring the fundamentals of AI and machine learning to broaden the types of problems I can solve.
 ---
 
 ## Skills & Technologies
