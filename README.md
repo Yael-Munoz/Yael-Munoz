@@ -1,93 +1,136 @@
-# Yael Munoz – Fullstack Developer
+# Yael Munoz
 
-I build clean, user-focused web applications with the MERN stack, working confidently with APIs, JSON handling, and testing/debugging workflows. I also have experience with SQL. I’m currently adding Python to my toolkit and exploring the fundamentals of AI and machine learning to broaden the types of problems I can solve.
+Software Engineer | Full-Stack Developer
+
+Computer Science student at California State University San Marcos (Expected Graduation: Spring 2027).
+
+I enjoy building full-stack web applications and learning new technologies. My primary experience is with the MERN stack, where I've built and deployed applications using React, Node.js, Express, and MongoDB. I'm interested in backend development, API design, and creating responsive web applications.
+
+I'm currently seeking entry-level Software Engineer, Full-Stack Developer, and Web Developer opportunities.
+
 ---
 
-## Skills & Technologies
+## Technical Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Responsive Design, Component-Based Architecture  
-- **Backend & Databases:** Node.js, Express, MongoDB, MySQL, Java  
-- **Testing & QA Tools:** Postman (API testing), Manual & Debug Testing  
-- **Other Skills:** RESTful APIs, Problem Solving, Team Collaboration  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+### Languages
+- JavaScript
+- Java
+- SQL
+- Python
+- C++
+
+### Frontend
+- React
+- HTML
+- CSS
+- Responsive Web Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Databases
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Jira
+- Trello
+- Chrome DevTools
 
 ---
 
 ## Projects
 
-### Full-Stack Web Application — [CitaYaMX](https://www.citayamx.com)
+### CitaYa
+Production-deployed scheduling platform built with MongoDB, Express.js, React, and Node.js.
 
+https://www.citayamx.com
 
-A production-deployed MERN application built with MongoDB, Express, React, and Node.js.
+- Developed approximately 80% of the application
+- Implemented JWT authentication and role-based authorization
+- Built separate dashboards for two user account types
+- Designed REST API endpoints and CRUD operations
+- Collaborated using Git, GitHub, feature branches, and pull requests
+- Deployed using Vercel, Render, and MongoDB Atlas
 
-- Implements a responsive, component-driven front end paired with a scalable REST API  
-- Handles user authentication and data operations with a structured, maintainable backend  
-- Demonstrates full-stack development, API integration, and team-based workflow using Git/GitHub  
-- Fully deployed at https://www.citayamx.com, with automated builds via Vercel and Render
-
----
-
-### Online Project – [softengineerexe](https://softengineerexe.com)
-
-A collaborative web project built with a friend, deployed online for users to browse and download books by category.  
-
-- Developed using HTML, CSS, and vanilla JavaScript  
-- Dynamic content filtering and interactive UI for easy navigation  
-- Integrated ad monetization to provide free access to users
+Tech Stack:
+React • Node.js • Express.js • MongoDB • JWT • Git
 
 ---
 
-### [MERN-1 Project](https://github.com/Yael-Munoz/My-portfolio/tree/main/MERN%20-%201) (User Account Management)
+### SoftEngineer.exe
 
-A full-stack MERN project for managing user accounts with JWT-based authentication stored in HTTP-only cookies.  
+https://softengineerexe.com
 
-- User registration and login, with access and refresh token authentication  
-- Account management: update profile, delete account  
-- Password hashing with bcrypt and React frontend with responsive UI
+Frontend web application built with HTML, CSS, and JavaScript.
 
----
-
-
-### [Book Selector (React)](https://github.com/Yael-Munoz/My-portfolio/tree/main/React%20-%20book)
-
-An interactive React app that displays a library of books stored in a JSON file.  
-
-- Built with React functional components and CSS Modules  
-- Users click a book cover to view detailed information in a responsive card component  
-- Modular, maintainable structure with clean separation of concerns  
+- Developed interactive UI components with vanilla JavaScript
+- Applied responsive design principles
+- Collaborated on development using Git and GitHub
 
 ---
 
-### [React Stopwatch](https://github.com/Yael-Munoz/My-portfolio/tree/main/React%20-%20stopwatch)
+### MERN User Account Management
 
-A responsive stopwatch app built with React functional components and hooks.  
+Authentication project demonstrating secure account management.
 
-- Start, stop, and reset functionality  
-- Displays elapsed time in hours, minutes, seconds, and milliseconds  
-- Accurate real-time updates using `setInterval`  
-
----
-
-### [Pokémon Fetcher](https://github.com/Yael-Munoz/My-portfolio/tree/main/JS%20-%20pokemon%20fetcher)
-
-A web app that fetches and displays Pokémon sprites using the PokeAPI.  
-
-- User input for Pokémon name  
-- Dynamic fetch and display of Pokémon images  
-- Clean, simple, and responsive UI  
+- User registration and login
+- JWT authentication with HTTP-only cookies
+- Password hashing using bcrypt
+- Profile management
+- Responsive React frontend
 
 ---
 
-### [Calculator](https://github.com/Yael-Munoz/My-portfolio/tree/main/JS%20-%20calculator)
+### React Book Selector
 
-A fully functional calculator built with vanilla JavaScript, HTML, and CSS.  
+Interactive React application for browsing books stored in JSON.
 
-- Performs basic arithmetic operations (+, −, ×, ÷)  
-- Responsive and clean user interface  
-- Handles invalid operations gracefully  
+- Functional React components
+- CSS Modules
+- Dynamic rendering
+- Responsive layout
 
 ---
 
-## Contact Me
+### React Stopwatch
 
-I’m actively seeking opportunities in software development or quality assurance and welcome connections.
+React stopwatch application built with hooks.
+
+- Start, stop, and reset functionality
+- Real-time timer updates
+
+---
+
+### Pokémon Fetcher
+
+JavaScript application using the PokeAPI.
+
+- Fetch API integration
+- Dynamic rendering
+- Responsive interface
+
+---
+
+### Calculator
+
+Calculator built with HTML, CSS, and JavaScript.
+
+- Basic arithmetic operations
+- Error handling
+- Responsive layout
+
+---
+
+## Contact
+
+- Email: yaelmunoz2002@gmail.com
+- LinkedIn
+- GitHub
