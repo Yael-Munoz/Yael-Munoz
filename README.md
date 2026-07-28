@@ -132,5 +132,5 @@ Calculator built with HTML, CSS, and JavaScript.
 ## Contact
 
 - Email: yaelmunoz2002@gmail.com
-- LinkedIn
-- GitHub
+- LinkedIn: http://www.linkedin.com/in/yaelmunoz
+- GitHub: https://github.com/Yael-Munoz/Yael-Munoz
